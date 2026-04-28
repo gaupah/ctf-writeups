@@ -4,5 +4,4 @@ Thank you for being here! This is a personal log of all the CTF challenges I hav
 
 ## Navigation
 
-Writups are organized by the CTF event / platform, with one '.md' file per challenge.
-
+Writeups are organized in folders by the CTF event/platform, with one '.md' file per challenge.
