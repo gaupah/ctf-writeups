@@ -1,0 +1,6 @@
+Challenge file: /uploads/the_bin_in_the.dump.gz [https://echoctf.red/uploads/the_bin_in_the.dump.gz]
+This forensics exercise is about demonstrating some basic tasks that are required in order to trace an attack on a compromised system.
+
+The actual data are illustrative and no actual trojans or exploits exist in any of the files
+
+You are given a filesystem dump and you are tasked to find and report the following details...
