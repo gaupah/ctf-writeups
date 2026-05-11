@@ -11,5 +11,6 @@ you can use perl
 ![alt text](image-3.png)
 
 ![alt text](image-4.png)
-
+you can try other methods too
 Flag: picoCTF{h1dd3n_1n_th3_b1n4ry_d4e39e9e}
+
