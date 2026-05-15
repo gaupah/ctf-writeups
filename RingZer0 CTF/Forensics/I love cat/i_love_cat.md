@@ -1,12 +1,6 @@
-WIP!!!!
+### wip!!!! please come back later :D
 
-
-
-
-
-
-
-
+```bash
 cat@forensics-252-i-love-cat:~$ cat commands/.bash_history
 ls
 cd ..
@@ -508,9 +502,10 @@ cd ..
 ls
 cat -v flag.txt 
 exit
+```
 
 
 
-
-Flag: 
-
+### Flag: 
+```
+```

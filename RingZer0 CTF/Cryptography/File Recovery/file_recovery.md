@@ -27,6 +27,9 @@ vOAM5ZcReMNzJqOfxLauakHx
 Decrypting it:
 ![alt text](image-8.png)
 
-BRO THE FINAL FLAG WAS LITERALLY 'Flag-vOAM5ZcReMNzJqOfxLauakHx'
+BRO THE FINAL FLAG WAS LITERALLY 
+```
+Flag-vOAM5ZcReMNzJqOfxLauakHx'
+```
 
-i kept trying vOAM5ZcReMNzJqOfxLauakHx
+i kept trying vOAM5ZcReMNzJqOfxLauakHx T_T
