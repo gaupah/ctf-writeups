@@ -23,4 +23,7 @@ So to find the password, just reverse it — Base64 decode the hardcoded string:
 
 ![alt text](image-2.png)
 
-Flag: picoCTF{pl3as3_l3t_m3_1nt0_th3_saf3}
+### Flag: 
+```
+picoCTF{pl3as3_l3t_m3_1nt0_th3_saf3}
+```

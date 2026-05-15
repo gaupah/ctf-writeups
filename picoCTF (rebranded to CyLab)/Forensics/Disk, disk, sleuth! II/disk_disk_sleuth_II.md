@@ -14,4 +14,7 @@ Hint 3: This disk can also be booted with qemu!
 
 ![alt text](image-5.png)
 
-Flag: picoCTF{f0r3ns1c4t0r_n0v1c3_4bd721f2}
+### Flag: 
+```
+picoCTF{f0r3ns1c4t0r_n0v1c3_4bd721f2}
+```

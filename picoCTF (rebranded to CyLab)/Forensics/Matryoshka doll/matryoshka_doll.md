@@ -21,5 +21,7 @@ Hint 2: Make sure to submit the flag as picoCTF{XXXXX}
 
 ![alt text](image-9.png)
 
-Flag: picoCTF{LL9lb1dR4QbGe4l4iWCvGq9pdtwt7392}
-
+### Flag: 
+```
+picoCTF{LL9lb1dR4QbGe4l4iWCvGq9pdtwt7392}
+```

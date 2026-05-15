@@ -81,5 +81,7 @@ At / we get the full Linux root layout (bin, boot, etc, home, usr, etc.) and tuc
 - 0ut_0f_//4t3r_ (piece 2)
 - 0b24fc4f} (piece 3)
 
-## Flag
+### Flag:
+```
 picoCTF{xxsh_0ut_0f_//4t3r_0b24fc4f}
+```

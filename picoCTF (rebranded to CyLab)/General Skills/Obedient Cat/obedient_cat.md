@@ -7,4 +7,7 @@ Hint 3: $ man cat
 
 ![alt text](image-1.png)
 
-Flag: picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}
+### Flag: 
+```
+picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}
+```

@@ -12,4 +12,7 @@ ls extracted/
 
 ![alt text](image-3.png)
 
-Flag: picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}
+### Flag: 
+```
+picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}
+```

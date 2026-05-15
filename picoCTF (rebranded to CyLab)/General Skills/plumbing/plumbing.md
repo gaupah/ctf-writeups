@@ -9,4 +9,7 @@ after connecting with nc fickle-tempest.picoctf.net 59696, this is what I get
 
 ez
 
-Flag: picoCTF{digital_plumb3r_11fffFE5}
+### Flag: 
+```
+picoCTF{digital_plumb3r_11fffFE5}
+```

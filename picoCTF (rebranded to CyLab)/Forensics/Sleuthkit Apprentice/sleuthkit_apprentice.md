@@ -8,4 +8,7 @@
 
 ![alt text](image-3.png)
 
-Flag: picoCTF{by73_5urf3r_adac6cb4}
+### Flag: 
+```
+picoCTF{by73_5urf3r_adac6cb4}
+```

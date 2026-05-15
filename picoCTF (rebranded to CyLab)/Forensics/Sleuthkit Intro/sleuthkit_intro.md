@@ -12,4 +12,7 @@ Partition Identification: It reveals gaps in the disk layout (unallocated space)
 
 ![alt text](image-2.png)
 
-Flag: picoCTF{mm15_f7w!}
+### Flag: 
+```
+picoCTF{mm15_f7w!}
+```

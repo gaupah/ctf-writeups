@@ -7,4 +7,7 @@ Hint 2: $ man python
 
 ![alt text](image-3.png)
 
-Flag: picoCTF{4p0110_1n_7h3_h0us3_9c5f9bcf}
+### Flag: 
+```
+picoCTF{4p0110_1n_7h3_h0us3_9c5f9bcf}
+```

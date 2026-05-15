@@ -7,4 +7,7 @@ Hint 2: The str_xor function does not need to be reverse engineered for this cha
 
 ![alt text](image-1.png)
 
-Flag: picoCTF{c0d3b00k_455157_7d102d7a}
+### Flag: 
+```
+picoCTF{c0d3b00k_455157_7d102d7a}
+```

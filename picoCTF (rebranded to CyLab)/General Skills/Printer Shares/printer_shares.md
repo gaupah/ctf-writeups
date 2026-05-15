@@ -17,4 +17,7 @@ make sure to have the full samba package for the smbclient to be able to run pro
 
 ![alt text](image-4.png)
 
-Flag: picoCTF{5mb_pr1nter_5h4re5_7a400ec3}
+### Flag: 
+```
+picoCTF{5mb_pr1nter_5h4re5_7a400ec3}
+```

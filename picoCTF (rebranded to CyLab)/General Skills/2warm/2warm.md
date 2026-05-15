@@ -4,4 +4,7 @@
 
 '0b' is just Python's prefix, the actual binary is 101010
 
-Flag: picoCTF{101010}
+### Flag: 
+```
+picoCTF{101010}
+```

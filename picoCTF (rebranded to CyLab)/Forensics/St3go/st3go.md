@@ -11,4 +11,7 @@ my saviour, almost 90% challenges I have ever solved just needed me to run zsteg
 
 ZSTEG MY GOAT!!!
 
-Flag: picoCTF{7h3r3_15_n0_5p00n_a1062667}
+### Flag: 
+```
+picoCTF{7h3r3_15_n0_5p00n_a1062667}
+```

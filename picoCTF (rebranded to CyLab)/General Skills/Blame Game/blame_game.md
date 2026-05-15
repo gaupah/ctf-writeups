@@ -10,4 +10,8 @@ Hint 3: You can use python3 <file>.py to try running the code, though you won't 
 
 ![alt text](image-3.png)
 
-Flag: picoCTF{@sk_th3_1nt3rn_b64c4705}
+### Flag: 
+```
+picoCTF{@sk_th3_1nt3rn_b64c4705}
+```
+

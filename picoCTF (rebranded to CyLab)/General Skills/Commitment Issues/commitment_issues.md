@@ -12,4 +12,7 @@ explain git, checkout concepts
 ![alt text](image-3.png)
 
 
-Flag: picoCTF{s@n1t1z3_ea83ff2a}
+### Flag:
+```
+picoCTF{s@n1t1z3_ea83ff2a}
+```

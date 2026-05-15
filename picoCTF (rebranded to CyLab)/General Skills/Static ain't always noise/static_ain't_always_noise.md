@@ -12,4 +12,7 @@ The list goes on and on, but we can use grep
 
 ![alt text](image-5.png)
 
-Flag: picoCTF{d15a5m_t34s3r_20335e41}
+### Flag: 
+```
+picoCTF{d15a5m_t34s3r_20335e41}
+```

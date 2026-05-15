@@ -84,6 +84,8 @@ Example: 0x4142 & 0xFF = 0x42 = 66 = 'B'
 
 ![alt text](image-1.png)
 
-Flag: picoCTF{16_bits_inst34d_of_8_b7f62ca5}
-
+### Flag: 
+```
+picoCTF{16_bits_inst34d_of_8_b7f62ca5}
+```
 

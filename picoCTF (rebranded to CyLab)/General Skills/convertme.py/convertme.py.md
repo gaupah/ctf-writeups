@@ -12,4 +12,6 @@ Hint 6: Finally, to run the script, type everything after the dollar sign and th
 
 ![alt text](image-3.png)
 
-Flag: picoCTF{4ll_y0ur_b4535_762f748e}
+### Flag: 
+```picoCTF{4ll_y0ur_b4535_762f748e}
+```

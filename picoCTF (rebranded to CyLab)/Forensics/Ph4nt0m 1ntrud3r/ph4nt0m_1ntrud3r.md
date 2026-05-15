@@ -69,4 +69,7 @@ tshark -r myNetworkTraffic.pcap -T fields -e frame.time_epoch -e tcp.payload 2>/
 
 ![alt text](image-26.png)
 
-Flag: picoCTF{1t_w4snt_th4t_34sy_tbh_4r_f318db22}
+### Flag: 
+```
+picoCTF{1t_w4snt_th4t_34sy_tbh_4r_f318db22}
+```

@@ -43,4 +43,7 @@ with open('dictionary.txt', 'r') as f:
 
 ![alt text](image-3.png)
 
-Flag: picoCTF{h45h_sl1ng1ng_fffcda23}
+### Flag: 
+```
+picoCTF{h45h_sl1ng1ng_fffcda23}
+```

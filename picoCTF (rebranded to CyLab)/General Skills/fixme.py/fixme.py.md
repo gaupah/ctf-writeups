@@ -13,4 +13,7 @@ fixed:
 
 ![alt text](image-3.png)
 
-Flag: picoCTF{3qu4l1ty_n0t_4551gnm3nt_4863e11b}
+### Flag: 
+```
+picoCTF{3qu4l1ty_n0t_4551gnm3nt_4863e11b}
+```

@@ -15,7 +15,10 @@ after unzipping the file:
 
 ![alt text](image-5.png)
 
-Flag: picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_4c24302f}
+### Flag: 
+```
+picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_4c24302f}
+```
 
 ### What was happening
 The flag.py on main only printed "Printing the flag..." — incomplete because the team was working on separate branches and hadn't merged yet.

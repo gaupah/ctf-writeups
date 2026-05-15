@@ -12,4 +12,7 @@
 
 ![alt text](image-6.png)
 
-Flag: picoCTF{p33kab00_1_s33_u_deadbeef}
+### Flag: 
+```
+picoCTF{p33kab00_1_s33_u_deadbeef}
+```

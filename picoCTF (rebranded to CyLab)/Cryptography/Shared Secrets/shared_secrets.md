@@ -8,4 +8,8 @@
 
 ![alt text](image-4.png)
 
-Flag: picoCTF{dh_s3cr3t_9982ffe6}
+### Flag: 
+
+```
+picoCTF{dh_s3cr3t_9982ffe6}
+```

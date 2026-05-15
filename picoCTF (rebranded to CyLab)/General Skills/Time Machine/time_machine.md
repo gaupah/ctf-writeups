@@ -10,4 +10,7 @@ Hint 3: When committing a file with git, a message can (and should) be included
 
 ![alt text](image-2.png)
 
-Flag: picoCTF{t1m3m@ch1n3_8defe16a}
+### Flag: 
+```
+picoCTF{t1m3m@ch1n3_8defe16a}
+```

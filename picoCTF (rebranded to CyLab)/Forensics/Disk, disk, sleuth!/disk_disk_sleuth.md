@@ -27,4 +27,7 @@ after running the command:
 
  ez
 
- Flag: picoCTF{f0r3ns1c4t0r_n30phyt3_5e56e786}
+### Flag: 
+```
+picoCTF{f0r3ns1c4t0r_n30phyt3_5e56e786}
+```
