@@ -7,7 +7,7 @@ LKOb (bwvek ove lgqkhej kwj osgx) gej g kyqj vo lvrqhkje bjlhetky lvrqjktktvu. L
 ```
 
 ![alt text](image-2.png)
-
+<!--but it has a lot of typos, fix the output-->
 Flag: 
 ```
 picoCTF{FR3QU3NCY_4774CK5_4R3_C001_6E0659FB}
