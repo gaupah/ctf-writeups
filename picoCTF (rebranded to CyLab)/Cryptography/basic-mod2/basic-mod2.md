@@ -76,7 +76,7 @@ Flag:
 picoCTF{1NV3R53LY_H4RD_8A05D939}
 ```
 
-#### i mapped manually, but you can use tbe following script to automate it
+#### i mapped manually, but you can use the following script to automate it
 
 ```
 python3 -c "
